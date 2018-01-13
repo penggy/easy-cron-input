@@ -1,15 +1,17 @@
 {
-  "name": "easy-cron-input",
+  "name": "@penggy/easy-cron-input",
   "description": "webpack & vue project",
   "version": "1.0.0",
   "author": "penggy <peng.wu@foxmail.com>",
   "license": "MIT",
-  "private": true,
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack-dev-server --open --open-page element/index.html",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules",
     "deploy": "cross-env NODE_ENV=production gh-pages -d dist"
   },
+  "files": [
+    "LICENSE", "README.md", "dist/"
+  ],
   "devDependencies": {
     "babel-core": "6.26.0",
     "babel-loader": "7.1.2",

@@ -2,7 +2,9 @@
 
 > 一个简单的 cron 表达示编辑器
 
-![](http://ww1.sinaimg.cn/large/79414a05gy1fnf4k4u1ivj20cm03ydfp.jpg)
+[demo](https://penggy.github.io/easy-cron-input/element/index.html)
+
+![](http://ww1.sinaimg.cn/large/79414a05gy1fnff4r0o1kj20h005lglj.jpg)
 
 ## 示例
 
